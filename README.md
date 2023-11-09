@@ -1,4 +1,5 @@
-## Hello, there! Welcome to my GitHub page!
+## Hello, there, I'm Nicole!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=e35994&lines=Computer+Science+student;%2B1+year+of+coding+study;Always+learninig+new+things)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/nicolelimat"> 
@@ -38,3 +39,12 @@
   <a href="https://www.github.com/nicolelimat" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
   <a href="https://www.linkedin.com/in/nicole-lima-8b12751b8" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
+
+##
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nicolelimat.visitor-badgee&color=pink&style=flat-square">
+
+
+
+
+
