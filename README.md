@@ -1,9 +1,8 @@
 ## Hello, there, I'm Nicole!
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=e35994&lines=Computer+Science+student;%2B1+year+of+coding+study;Always+learninig+new+things)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/nicolelimat"> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolelimat&show_icons=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&include_all_commits=true&count_private=true"/> <!-- hide_border=true -->
+<!--     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolelimat&show_icons=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&include_all_commits=true&count_private=true"/> -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolelimat&layout=compact&langs_count=7&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917"/>
 </div>
     
